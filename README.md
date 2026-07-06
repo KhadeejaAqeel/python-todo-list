@@ -21,12 +21,11 @@ A simple command-line To-Do List application built using Python. This project he
 
 ```bash
 python project1.py
-
+```
 
 ## Screenshot
 
 <img width="341" height="232" alt="project1" src="https://github.com/user-attachments/assets/a5a858f3-c878-45ad-aada-ccafdea15177" />
-
 
 ## Example
 
@@ -43,11 +42,11 @@ python project1.py
 - Lists
 - Loops
 - Functions
-- User input
-- Conditional statements
+- User Input
+- Conditional Statements
 
 ## Author
 
-Khadeeja Aqeel
+**Khadeeja Aqeel**
 
 Created as part of my Python learning journey.
