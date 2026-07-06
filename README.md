@@ -23,7 +23,7 @@ A simple command-line To-Do List application built using Python. This project he
 python project1.py
 
 
-## Screenshot```
+## Screenshot
 
 <img width="341" height="232" alt="project1" src="https://github.com/user-attachments/assets/a5a858f3-c878-45ad-aada-ccafdea15177" />
 
